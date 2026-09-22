@@ -2,9 +2,8 @@
   "cafeteria": "학생생활관 학생식당",
   "id": "saenghwalgwan",
   "source": "https://mokpo.ac.kr/www/2089/subview.do",
-  "updated_at": "2026-09-21",
+  "updated_at": "2026-09-22",
   "days": [
-    "2026-08-21",
     "2026-08-22",
     "2026-08-23",
     "2026-08-24",
@@ -51,26 +50,6 @@
     "2026-10-04"
   ],
   "meals": {
-    "2026-08-21": [
-      {
-        "type": "조식",
-        "main": "",
-        "menu": [],
-        "origin": ""
-      },
-      {
-        "type": "중식",
-        "main": "",
-        "menu": [],
-        "origin": ""
-      },
-      {
-        "type": "석식",
-        "main": "",
-        "menu": [],
-        "origin": ""
-      }
-    ],
     "2026-08-22": [
       {
         "type": "조식",
