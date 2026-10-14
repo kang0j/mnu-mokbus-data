@@ -2,9 +2,8 @@
   "cafeteria": "학생회관 학생식당",
   "id": "haksenghoegwan",
   "source": "https://mokpo.ac.kr/www/2086/subview.do",
-  "updated_at": "2026-10-13",
+  "updated_at": "2026-10-14",
   "days": [
-    "2026-09-12",
     "2026-09-13",
     "2026-09-14",
     "2026-09-15",
@@ -50,20 +49,6 @@
     "2026-10-25"
   ],
   "meals": {
-    "2026-09-12": [
-      {
-        "type": "조식",
-        "main": "",
-        "menu": [],
-        "origin": ""
-      },
-      {
-        "type": "중식",
-        "main": "",
-        "menu": [],
-        "origin": ""
-      }
-    ],
     "2026-09-13": [
       {
         "type": "조식",
